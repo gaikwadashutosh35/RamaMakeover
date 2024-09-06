@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RamaMakeover/static/css/main.387f1710.css",
-    "main.js": "/RamaMakeover/static/js/main.ebca2359.js",
+    "main.css": "/RamaMakeover/static/css/main.d7599b2a.css",
+    "main.js": "/RamaMakeover/static/js/main.0fd3957d.js",
     "static/js/453.157de063.chunk.js": "/RamaMakeover/static/js/453.157de063.chunk.js",
     "static/media/BackgroundforLoader.png": "/RamaMakeover/static/media/BackgroundforLoader.376291fc3a1185a61953.png",
     "static/media/Manicure.png": "/RamaMakeover/static/media/Manicure.10ef6d2931e15149d70a.png",
@@ -31,12 +31,12 @@
     "static/media/slick.ttf": "/RamaMakeover/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/RamaMakeover/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/RamaMakeover/index.html",
-    "main.387f1710.css.map": "/RamaMakeover/static/css/main.387f1710.css.map",
-    "main.ebca2359.js.map": "/RamaMakeover/static/js/main.ebca2359.js.map",
+    "main.d7599b2a.css.map": "/RamaMakeover/static/css/main.d7599b2a.css.map",
+    "main.0fd3957d.js.map": "/RamaMakeover/static/js/main.0fd3957d.js.map",
     "453.157de063.chunk.js.map": "/RamaMakeover/static/js/453.157de063.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.387f1710.css",
-    "static/js/main.ebca2359.js"
+    "static/css/main.d7599b2a.css",
+    "static/js/main.0fd3957d.js"
   ]
 }
