@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/RamaMakeover/static/css/main.387f1710.css",
+    "main.js": "/RamaMakeover/static/js/main.d03c655e.js",
+    "static/js/453.157de063.chunk.js": "/RamaMakeover/static/js/453.157de063.chunk.js",
+    "static/media/BackgroundforLoader.png": "/RamaMakeover/static/media/BackgroundforLoader.376291fc3a1185a61953.png",
+    "static/media/Manicure.png": "/RamaMakeover/static/media/Manicure.10ef6d2931e15149d70a.png",
+    "static/media/Parlour 14.png": "/RamaMakeover/static/media/Parlour 14.d261603722ed6c80bbc8.png",
+    "static/media/HairColouring.png": "/RamaMakeover/static/media/HairColouring.c8cf4c91bbc1e0d230ac.png",
+    "static/media/MakeupServices.png": "/RamaMakeover/static/media/MakeupServices.5558843eb96408c1c770.png",
+    "static/media/Nails.png": "/RamaMakeover/static/media/Nails.6190f0d7d0a119999674.png",
+    "static/media/Parlour 8.png": "/RamaMakeover/static/media/Parlour 8.3e7ad9f7dc286fe8e8b4.png",
+    "static/media/Makeup.png": "/RamaMakeover/static/media/Makeup.0b7b89c1aa575452ab03.png",
+    "static/media/Parlour 4.png": "/RamaMakeover/static/media/Parlour 4.d7251371488dd5eef40d.png",
+    "static/media/Hair.jpeg": "/RamaMakeover/static/media/Hair.073d882a84b873c73c82.jpeg",
+    "static/media/Hair Designing.png": "/RamaMakeover/static/media/Hair Designing.d2d7281c5712e9ecc2a5.png",
+    "static/media/Parlour 5.png": "/RamaMakeover/static/media/Parlour 5.2fc2a78d10e3a92e49be.png",
+    "static/media/Parlour 11.png": "/RamaMakeover/static/media/Parlour 11.4fcf6fe20303352cdb40.png",
+    "static/media/Logo.gif": "/RamaMakeover/static/media/Logo.cb936af804819f59e619.gif",
+    "static/media/Pedicure.png": "/RamaMakeover/static/media/Pedicure.0924e9b2611b380ac88c.png",
+    "static/media/Parlour 7.png": "/RamaMakeover/static/media/Parlour 7.e1679c3683243cf0f650.png",
+    "static/media/Parlour 13.png": "/RamaMakeover/static/media/Parlour 13.b75abc35d2d006e57522.png",
+    "static/media/Body Polish.jpg": "/RamaMakeover/static/media/Body Polish.23ca6bf07aa94212cbd7.jpg",
+    "static/media/Parlour 6.png": "/RamaMakeover/static/media/Parlour 6.281156476ece37cbcaec.png",
+    "static/media/Parlour 10.png": "/RamaMakeover/static/media/Parlour 10.9cbdecfd59640692cf4f.png",
+    "static/media/Parlour 12.png": "/RamaMakeover/static/media/Parlour 12.4b4094d285a4434a47b9.png",
+    "static/media/Parlour 9.png": "/RamaMakeover/static/media/Parlour 9.cdbd500bfcd0affc5b45.png",
+    "static/media/Skin Care.avif": "/RamaMakeover/static/media/Skin Care.f25542208c32dd5c3039.avif",
+    "static/media/slick.svg": "/RamaMakeover/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/RamaMakeover/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/RamaMakeover/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/RamaMakeover/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/RamaMakeover/index.html",
+    "main.387f1710.css.map": "/RamaMakeover/static/css/main.387f1710.css.map",
+    "main.d03c655e.js.map": "/RamaMakeover/static/js/main.d03c655e.js.map",
+    "453.157de063.chunk.js.map": "/RamaMakeover/static/js/453.157de063.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.387f1710.css",
+    "static/js/main.d03c655e.js"
+  ]
+}
