@@ -1,0 +1,125 @@
+/* 
+    .animated-whatsapp-btn {
+    position: fixed;
+    bottom: 20px; 
+    right: 20px; 
+    background-color: #25d366; 
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000; 
+    animation: jump 1s infinite; 
+    }
+
+    @keyframes jump {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+    }
+
+    .whatsapp-icon {
+    width: 39px;
+    height: 39px;
+    }
+
+    
+    #contact {
+    position: relative;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #f7f7f7;
+    }
+
+    .container {
+    max-width: 1200px;
+    }
+
+    a {
+    position: relative;
+    }
+
+    a::after {
+    content: "Contact Us";
+    position: absolute;
+    top: -20px; 
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 16px;
+    color: #000;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    }
+
+    a:hover::after {
+    opacity: 1;
+    } */
+
+/* src/ComponentsCSS/ContactSection.css */
+
+/* Fixed WhatsApp button with animation */
+.animated-whatsapp-btn {
+  position: fixed;
+  bottom: 20px; /* Adjust based on your design */
+  right: 20px; /* Adjust based on your design */
+  background-color: #25d366; /* WhatsApp color */
+  border-radius: 50%;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000; /* Ensure it is on top */
+  animation: jump 1s infinite; /* Add jumping animation */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Icon and Text inside the button */
+.animated-whatsapp-btn svg {
+  width: 30px;
+  height: 30px;
+}
+
+.animated-whatsapp-btn span {
+  color: #fff;
+  margin-left: 8px;
+  font-size: 16px;
+  white-space: nowrap;
+}
+
+@keyframes jump {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* Contact Section */
+#contact {
+  padding-top: 60px; /* Ensure it is not overlapped by fixed button */
+  padding-bottom: 60px;
+  background-color: #f7f7f7;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.text-xl {
+  font-size: 18px;
+}
+
+.text-3xl {
+  font-size: 36px;
+}

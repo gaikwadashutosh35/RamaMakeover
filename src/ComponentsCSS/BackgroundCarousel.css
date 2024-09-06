@@ -1,0 +1,62 @@
+/* src/ComponentsCSS/BackgroundCarousel.css */
+.carousel-container {
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carousel-container2 {
+  position: absolute;
+  top: 450px;
+  left: 0px;
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 60px;
+}
+
+.carousel-image {
+  width: 60%;
+  height: auto;
+  object-fit:cover;
+  /* padding: 10px; */
+}
+/* 
+
+/* Adjust specific styles for responsiveness */
+@media (max-width: 1024px) {
+  .carousel-image {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .carousel-image {
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  .carousel-image {
+    width: 80%;
+  }
+}
